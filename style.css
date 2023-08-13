@@ -1,0 +1,15 @@
+html {
+    background-color: aqua;
+    color:black;
+}
+h1 {
+    background-color: red;
+    border-radius: 10px;
+    color: white;
+}
+ul {
+    background-color: white;
+    border-radius: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: cursive;
+}
